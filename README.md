@@ -1,5 +1,5 @@
-## Hi there 👋
-I write full-stack web apps, with an inclination in backend development.
+## Hello!
+I write full-stack web apps, with an inclination towards backend development.
 
 I really enjoy writing code in Go!
 
